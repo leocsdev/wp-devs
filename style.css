@@ -18,3 +18,7 @@ Tags: one-column, custom-menu, custom-logo, featured-images translation-ready
   background-color: red;
   height: 70px;
 }
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
