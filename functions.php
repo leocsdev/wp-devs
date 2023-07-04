@@ -1,5 +1,5 @@
-<!-- Contains settings for this theme -->
 <?php
+// Contains settings for this theme
 
 // Add the stylesheet wpdevs_load_scripts
 // by hooking (adding) it to the 'wp_enqueue_scripts'
