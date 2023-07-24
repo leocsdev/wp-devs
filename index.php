@@ -35,6 +35,12 @@
             <p>Nothing yet to be displayed!</p>
           <?php endif; ?>
         </div>
+
+        <?php
+          // Create a sidebar in WordPress Admin Dashboard.
+          get_sidebar();
+        ?>
+
       </div>
     </main>
   </div>
